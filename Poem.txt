@@ -6,6 +6,7 @@ ROYGBIV helps you remember
 Red
 Orange
 Yellow
+Green
 Blue
 Indigo
 Violet
