@@ -4,6 +4,7 @@ It has many colors
 
 ROYGBIV helps you remember
 Red
+Orange
 Yellow
 Blue
 Indigo
